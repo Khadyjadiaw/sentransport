@@ -37,4 +37,21 @@
     "arrets": 11,
     "listeArrets": ["Yoff Village", "Aeroport LSS", "Parcelles U17", "Grand Yoff", "HLM", "Sandaga"]
   }
+  ,
+{
+  "id": 7,
+  "numero": "27",
+  "depart": "HLM Grand Yoff",
+  "arrivee": "Gare Routiere",
+  "arrets": 9,
+  "listeArrets": ["HLM Grand Yoff", "Liberte 6", "Liberte 5", "Colobane", "Tilene", "Gare Routiere"]
+},
+{
+  "id": 8,
+  "numero": "36",
+  "depart": "Thiaroye",
+  "arrivee": "Plateau",
+  "arrets": 13,
+  "listeArrets": ["Thiaroye", "Pikine", "Hann", "Colobane", "Ponty", "Plateau"]
+}
 ]
